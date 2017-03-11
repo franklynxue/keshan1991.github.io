@@ -2,7 +2,7 @@ title: keshan1991.github.io
 description: For blog
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
 
 gems:
   - jekyll-mentions
